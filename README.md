@@ -64,7 +64,7 @@ data/
 ### 4. Run the Notebook
 Open and run the notebook:
 ```
-Emotion_Detection_TensorFlow_OpenCV.ipynb
+Emotion_Detection_Complete.ipynb
 ```
 
 ### 5. Start Real-Time Detection
