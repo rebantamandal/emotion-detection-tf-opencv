@@ -38,7 +38,7 @@ project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emotion-detection-tf-opencv.git
+git clone https://github.com/rebantamandal/emotion-detection-tf-opencv.git
 cd emotion-detection-tf-opencv
 ```
 
